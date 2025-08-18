@@ -16,7 +16,7 @@ p {
   color: white; 
 }
 
-li {
+li, a {
   font-family: veranda; 
   font-size: 20px; 
   color: white; 
