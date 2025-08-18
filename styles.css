@@ -16,13 +16,11 @@ li, a, p {
   font-size: 1 em; 
   color: white; 
 } 
-a {
-  text-decoration: underline;
-} 
 
 a:hover {
   color: #aeb1b5; 
+  text-decoration: underline;
   overflow: visible;
-  transform: scale(1.05); /* Grows by 5% */
+  transform: scale(1.05); 
 }
 
