@@ -9,7 +9,19 @@ h1,h2,h3{
   color: white;
   text-align: center;
   font-family: "Aboreto", system-ui;
+}
 
+a:hover {
+  color: #aeb1b5; 
+  overflow: visible;
+  transform: scale(1.05); 
+}
+
+.announcement{
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px 40px;
+  text-align: center;
 }
 
 li, a, p {
@@ -19,17 +31,6 @@ li, a, p {
   text-decoration: none; 
 } 
 
-a:hover {
-  color: #aeb1b5; 
-  overflow: visible;
-  transform: scale(1.05); 
-}
-
-.announcement {
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 20px 40px;
-  text-align: center;
-  background-color: rgba(255, 255, 255, 0.05);
-  border-radius: 8px;                           
-}
+img {
+  align: center; 
+} 
