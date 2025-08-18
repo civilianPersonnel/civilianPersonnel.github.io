@@ -9,14 +9,7 @@ h1,h2,h3{
   font-family: aboreto; 
 }
 
-
-p {
-  font-family: veranda;
-  font-size: 20px;
-  color: white; 
-}
-
-li, a {
+li, a, p {
   font-family: veranda; 
   font-size: 20px; 
   color: white; 
