@@ -17,8 +17,13 @@ li, a, p {
   color: white; 
   text-decoration:none;
 } 
-a:hover {
+a {
   text-decoration: underline;
+} 
+
+a:hover {
   color: #aeb1b5; 
+  overflow: visible;
+
 }
 
