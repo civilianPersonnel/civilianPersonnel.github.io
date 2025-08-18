@@ -21,12 +21,11 @@ li, a, p {
 
 a:hover {
   color: #aeb1b5; 
-  text-decoration: underline;
   overflow: visible;
   transform: scale(1.05); 
 }
 
-.announcement { 
+#announcement { 
 text-align: center; 
 padding-left: 40 px; 
 padding-right: 40 px; 
