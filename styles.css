@@ -15,7 +15,6 @@ li, a, p {
   font-family: Verdana, sans-serif; 
   font-size: 1 em; 
   color: white; 
-  text-decoration:none;
 } 
 a {
   text-decoration: underline;
@@ -24,6 +23,6 @@ a {
 a:hover {
   color: #aeb1b5; 
   overflow: visible;
-
+  transform: scale(1.05); /* Grows by 5% */
 }
 
