@@ -33,5 +33,6 @@ li, a, p {
 
 img {
   align: center; 
-  size: 400 px; 
+  width: 600 px; 
+  height: 400 px; 
 } 
